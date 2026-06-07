@@ -7,13 +7,9 @@ Lightweight blockchain explorer.
 - Address balance
 - Block details
 - Token transfers
-
 ## Tech Stack
-
 - Node.js
 - React
 - PostgreSQL
-
 ## License
-
 MIT
