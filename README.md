@@ -12,4 +12,3 @@ Lightweight blockchain explorer.
 - React
 - PostgreSQL
 ## License
-MIT
