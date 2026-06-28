@@ -1,7 +1,7 @@
 Blockchain Explorer
 ```markdown
 # Blockchain Explorer
-Lightweight blockchain explorer.
+Lightweight  explorer.
 ## Features
 - Transaction lookup
 - Address balance
