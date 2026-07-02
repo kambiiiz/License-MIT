@@ -7,8 +7,8 @@ Lightweight  explorer.
 - Address balance
 - Block details
 - Token transfers
-## Tech Stack
+##ech Stack
 - Node.js
 - React
 - PostgreSQL
-## License
+##License
